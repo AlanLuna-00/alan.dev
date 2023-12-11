@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Alan from "@/assets/Alan.png";
-import Contact from "../Contact/Contact";
+import Contact from "./Contact/Contact";
 
 const AbouteMe = () => {
   return (
