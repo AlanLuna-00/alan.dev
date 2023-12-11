@@ -1,0 +1,23 @@
+[
+  {
+    "image": "https://pbs.twimg.com/profile_images/776882583770726401/LWFJU5Dc_400x400.jpg",
+    "title": "Global Task",
+    "description": "Backend Developer",
+    "from": "2023 Nov",
+    "to": "Present"
+  },
+  {
+    "image": "https://cdn.freebiesupply.com/logos/large/2x/freelance-magic-logo-black-and-white.png",
+    "title": "Freelance Project",
+    "description": "Backend Developer",
+    "from": "2023 Aug",
+    "to": "2023 Oct"
+  },
+  {
+    "image": "https://media.licdn.com/dms/image/D4D0BAQG0mikYKIPBaw/company-logo_200_200/0/1682313690553?e=1710374400&v=beta&t=FnQhIlxgMuxYvSiS_DVVneltu5fTUVcznHtMBUsIVtY",
+    "title": "MakiSan Tech ",
+    "description": "Full Stack Developer - Internship",
+    "from": "2023 May",
+    "to": "2023 Jul"
+  }
+]
