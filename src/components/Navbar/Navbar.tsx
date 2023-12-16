@@ -52,20 +52,20 @@ const Navbar = () => {
         >
           <ul className="flex flex-col md:flex-row md:space-x-4 pb-2">
             <li className="pb-1">
-              <Link href="/experience">
+              <Link href="/experience" onClick={toggleMenu}>
                 <span className="text-white">Experience</span>
               </Link>
             </li>
             <li className="pb-1">
-              <Link href="/skills">
+              <Link href="/skills" onClick={toggleMenu}>
                 <span className="text-white">Skills</span>
               </Link>
             </li>
-            <li className="pb-1">
-              <Link href="/testimonials">
+            {/* <li className="pb-1">
+              <Link href="/testimonials" onClick={toggleMenu}>
                 <span className="text-white">Testimonials</span>
               </Link>
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>
