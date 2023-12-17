@@ -14,7 +14,7 @@ export default function Experience() {
           href="https://www.linkedin.com/in/alanluna00/"
           target="_blank"
           rel="noopener noreferrer"
-          className=" p-2 bg-gray-800 hover:bg-blue-900 rounded-md text-white text-center"
+          className=" p-2 bg-gray-800 hover:bg-blue-900 rounded-md text-white text-center transition"
         >
           See all in{" "}
           <svg

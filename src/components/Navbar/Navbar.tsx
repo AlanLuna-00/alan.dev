@@ -16,7 +16,7 @@ const Navbar = () => {
     <nav className="bg-gray-800 p-2">
       <div className="flex flex-wrap items-center justify-between container mx-auto">
         <div className="flex items-center">
-          <Link href="/">
+          <Link href="/" onClick={toggleMenu}>
             <div className="flex-shrink-0">
               <div className="rounded-full overflow-hidden mr-4">
                 <Image src={logo} alt="logo" width={40} height={40} />
